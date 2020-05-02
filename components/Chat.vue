@@ -101,7 +101,7 @@ export default {
       showName: false,
       showChat: false,
       janus: null,
-      server: 'wss://vuwzerdash.com/ws',
+      server: 'ws://127.0.0.1/ws',
       participants: [],
       from: '',
       message: '',
